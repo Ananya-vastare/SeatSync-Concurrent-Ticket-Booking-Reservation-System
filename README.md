@@ -47,6 +47,9 @@ This is an in-memory demonstration, not a production ticketing platform. A produ
 system would normally use database transactions, locking, payment handling, and stronger
 persistence guarantees.
 
+## Testing
+<img width="1024" height="267" alt="Screenshot 2026-11-12 152245" src="https://github.com/user-attachments/assets/fa8f446f-48d8-41a1-8218-c935fb34611d" />
+
 ## Project structure
 
 ```text
